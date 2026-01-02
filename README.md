@@ -1,10 +1,5 @@
-<p align="center"><a href="https://maven.apache.org" target="_blank"><img src="https://maven.apache.org/images/apache-maven-project.png" width="400"></a></p>
+<p align="center"><a href="https://maven.apache.org" target="_blank"><img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="400"></a></p>
 
-<p align="center">
-[![Apache License, Version 2.0, January 2004](https://img.shields.io/github/license/apache/maven.svg?label=License)][license]
-[![Reproducible Builds](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jvm-repo-rebuild/reproducible-central/master/content/org/apache/maven/maven/badge.json)](https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/content/org/apache/maven/maven/README.md)
-
-</p>
 
 <p align="center">
 <a href="https://www.apache.org/licenses/LICENSE-2.0" rel="nofollow"><img src="https://camo.githubusercontent.com/767eed69cdfdd7e38682e81bbfaa40a0ce1826b5ac841fe3de4fcd448db32961/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6170616368652f6d6176656e2e7376673f6c6162656c3d4c6963656e7365" alt="Apache License, Version 2.0, January 2004" data-canonical-src="https://img.shields.io/github/license/apache/maven.svg?label=License" style="max-width: 100%;"></a>
