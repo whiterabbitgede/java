@@ -7,10 +7,8 @@
 </p>
 
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<a href="https://www.apache.org/licenses/LICENSE-2.0" rel="nofollow"><img src="https://camo.githubusercontent.com/767eed69cdfdd7e38682e81bbfaa40a0ce1826b5ac841fe3de4fcd448db32961/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6170616368652f6d6176656e2e7376673f6c6162656c3d4c6963656e7365" alt="Apache License, Version 2.0, January 2004" data-canonical-src="https://img.shields.io/github/license/apache/maven.svg?label=License" style="max-width: 100%;"></a>
+<a href="https://github.com/jvm-repo-rebuild/reproducible-central/blob/master/content/org/apache/maven/maven/README.md"><img src="https://camo.githubusercontent.com/cf0fe36b27b3f2e13da7099e76f5dcdf7762ee0419b9d9b69a732290e5a62930/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6a766d2d7265706f2d72656275696c642f726570726f64756369626c652d63656e7472616c2f6d61737465722f636f6e74656e742f6f72672f6170616368652f6d6176656e2f6d6176656e2f62616467652e6a736f6e" alt="Reproducible Builds" data-canonical-src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jvm-repo-rebuild/reproducible-central/master/content/org/apache/maven/maven/badge.json" style="max-width: 100%;"></a>
 </p>
 
 ## Apache Maven
