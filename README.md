@@ -17,7 +17,7 @@ Apache Maven is a software project management and comprehension tool. Based on t
 - [3.9.x](https://github.com/apache/maven/tree/maven-3.9.x): [![Maven Central](https://img.shields.io/maven-central/v/org.apache.maven/apache-maven.svg?label=Maven%20Central&versionPrefix=3.)](https://central.sonatype.com/artifact/org.apache.maven/apache-maven)
 
 
-## Learning Laravel
+## Learning Maven
 
 More information can be found on [Apache Maven Homepage][maven-home]. Questions related to the usage of Maven should be posted on the [Maven User List][users-list].
 
