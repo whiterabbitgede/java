@@ -31,7 +31,7 @@ If you want to bootstrap Maven, you'll need:
     mvn -DdistributionTargetDir="$HOME/app/maven/apache-maven-4.1.x-SNAPSHOT" clean package
     ```
 
-# java
+## java
 java LTS
 
 maven - Official Image
@@ -52,7 +52,8 @@ Safe choices for Java 8 apps:
 - Maven 3.9.9 (recommended if you want up-to-date fixes and compatibility with modern plugins)
 
 
-eclipse-temurin - Official Image
+## eclipse
+eclipse-temurin - Official Image :
 - maven:3.3-jdk-7
 - maven:3.8.6-eclipse-temurin-8
 - maven:3.8.6-eclipse-temurin-11
@@ -62,6 +63,7 @@ eclipse-temurin - Official Image
 - eclipse-temurin:11-jre-alpine
 - eclipse-temurin:17-jre-alpine
 - eclipse-temurin:21-jre-alpine
+
 
 ```bash
 mvn archetype:generate -DgroupId=com.example -DartifactId=my-restapi -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
