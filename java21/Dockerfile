@@ -20,7 +20,7 @@ ENV NO_PROXY=localhost,127.0.0.1,.example.com
 
 # install local repo with settings.xml 
 # Copy Maven configuration (build stage masih perlu root untuk Maven)
-RUN mkdir -p /root/.m2 && mkdir /root/.m2/repository
+RUN mkdir -p /root/.m2/repository
 COPY settings.xml /root/.m2/settings.xml
 RUN mvn -N wrapper:wrapper
 
